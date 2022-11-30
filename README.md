@@ -83,3 +83,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
+---
+<p align="center"> © 2022 Anurag Raj, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+
+</p>
+
