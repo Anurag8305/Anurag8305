@@ -18,10 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@anurag_raj8305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anurag_raj8305" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag raj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anuragraj8305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anuragraj8305" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anurag8305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag8305" height="30" width="40" /></a>
+  <a href="https://github.com/Anurag8305"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+  <a href="https://www.linkedin.com/in/anurag-raj-809a82137/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+  <a href="https://twitter.com/Anurag_Raj8305"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
