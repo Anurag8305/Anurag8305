@@ -8,7 +8,7 @@
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Coding" width="100%" height="500">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anurag8305&label=Profile%20views&color=0e75b6&style=flat" alt="anurag8305" width="50%"/> 
+  <img src="https://komarev.com/ghpvc/?username=Anumulaashok&label=Profile%20views&color=0e75b6&style=flat" alt="anurag8305" width="50%"/> 
 </p>
 
 - 🔭 I’m currently working on **data visualization dashboards and scalable UI systems at Revlitix**
